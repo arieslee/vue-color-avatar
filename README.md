@@ -39,7 +39,7 @@
 
 ```sh
 # 1. 克隆项目至本地
-git clone https://github.com/Codennnn/vue-color-avatar.git
+git clone https://github.com/arieslee/vue-color-avatar.git
 
 # 2. 安装项目依赖
 yarn install
