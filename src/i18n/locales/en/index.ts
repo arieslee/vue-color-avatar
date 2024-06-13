@@ -39,5 +39,6 @@ export default {
   text: {
     codeModalTitle: 'Code',
     downloadTip: 'LONG PRESS or RIGHT CLICK to save',
+    logo:'Color Avatar'
   },
 }

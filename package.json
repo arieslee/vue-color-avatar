@@ -8,7 +8,6 @@
     "build:prerelease": "vite build --mode prerelease",
     "deps": "yarn upgrade-interactive --latest",
     "dev": "vite",
-    "prepare": "husky install",
     "preview": "vite preview",
     "test": "jest"
   },

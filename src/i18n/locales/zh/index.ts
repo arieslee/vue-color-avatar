@@ -39,5 +39,6 @@ export default {
   text: {
     codeModalTitle: '配置代码',
     downloadTip: '长按图片或右键点击下载至本地相册',
+    logo:'彩色头像',
   },
 }

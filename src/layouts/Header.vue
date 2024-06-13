@@ -2,7 +2,7 @@
   <header class="header">
     <Logo />
 
-    <h2 class="site-title">彩色头像</h2>
+    <h2 class="site-title">{{ t('text.logo') }}</h2>
 
     <div class="header-right">
       <a
@@ -30,6 +30,8 @@
 import IconGitHub from '@/assets/icons/icon-github.svg'
 import Logo from '@/components/Logo.vue'
 import { recordEvent } from '@/utils/ga'
+import { useI18n } from 'vue-i18n'
+const { t } = useI18n()
 </script>
 
 <style lang="scss" scoped>
