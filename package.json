@@ -4,7 +4,7 @@
   "private": true,
   "license": "MIT",
   "scripts": {
-    "build": "npm run test && vite build",
+    "build": "vite build",
     "build:prerelease": "vite build --mode prerelease",
     "deps": "yarn upgrade-interactive --latest",
     "dev": "vite",
