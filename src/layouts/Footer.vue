@@ -4,11 +4,11 @@
       Made by
       <a
         class="link"
-        href="https://leoku.top"
+        href="https://iw3c.com"
         target="_blank"
         rel="nofollow noopener noreferrer"
       >
-        LeoKu
+        Aries
       </a>
     </div>
 
