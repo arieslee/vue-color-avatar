@@ -34,6 +34,13 @@
                     : t('action.download')
                 }}
               </button>
+              <div class="adsItem">
+                <ins class="adsbygoogle"
+          style="display:block"
+          data-ad-client="ca-pub-5478679201552725"
+          data-ad-slot="7621723469"
+          data-ad-format="auto"></ins>
+        </div>
             </div>
           </div>
 
@@ -64,7 +71,7 @@
 </template>
 
 <script lang="ts" setup>
-import { ref } from 'vue'
+import { ref,onMounted,nextTick } from 'vue'
 import { useI18n } from 'vue-i18n'
 
 import ActionBar from '@/components/ActionBar.vue'
@@ -95,6 +102,12 @@ import {
 import { recordEvent } from '@/utils/ga'
 
 import ConfettiCanvas from './components/ConfettiCanvas.vue'
+
+onMounted(()=>{
+  nextTick(()=>{
+    window.addAds();
+  })
+})
 
 const store = useStore()
 
