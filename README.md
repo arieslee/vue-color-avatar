@@ -7,13 +7,13 @@
 
 </div>
 
-<a href="https://vue-color-avatar.vercel.app" target="_blank">
+<a href="https://iw3c.com" target="_blank">
   <img src="./images/social-preview-1.png" alt="website-preview" />
 </a>
 
 ## 在线预览
 
-[`https://vue-color-avatar.vercel.app`](https://vue-color-avatar.vercel.app)
+[`https://iw3c.com`](https://iw3c.com)
 
 ## 介绍
 

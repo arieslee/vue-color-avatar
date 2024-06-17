@@ -13,7 +13,7 @@
 
 ## Preview
 
-[`https://vue-color-avatar.vercel.app`](https://vue-color-avatar.vercel.app)
+[`https://iw3c.com`](https://iw3c.com)
 
 ## Introduction
 
